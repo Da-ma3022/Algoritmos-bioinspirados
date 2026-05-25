@@ -1,23 +1,38 @@
 # Algoritmos Bioinspirados
 
-Este repositorio contiene implementaciones de algoritmos bioinspirados desarrollados como parte de la materia.
+Este repositorio contiene implementaciones de diferentes algoritmos bioinspirados desarrollados en Python como parte de la materia de Inteligencia Artificial y Optimización.
 
-# Contenido del repositorio
+## Contenido del repositorio
 
-Problema de las 8 reinas 
-Implementado utilizando un **algoritmo genético**, el cual busca una solución óptima evitando conflictos entre reinas en el tablero.
+### 1. Problema de las 8 Reinas (Algoritmo Genético)
+Implementación de un algoritmo genético para resolver el problema de las 8 reinas, buscando una solución óptima sin conflictos entre reinas en el tablero.
 
-Ant Colony Optimization (ACO) 
-Algoritmo inspirado en el comportamiento de las hormigas para encontrar caminos óptimos mediante el uso de feromonas.
+### 2. Ant Colony Optimization (ACO)
+Algoritmo inspirado en el comportamiento de las hormigas, utilizando feromonas para encontrar rutas óptimas.
 
-# Archivos incluidos
+### 3. Particle Swarm Optimization (PSO)
+Algoritmo inspirado en el movimiento colectivo de partículas o enjambres, utilizado para encontrar soluciones óptimas mediante cooperación grupal.
 
-- AG_8 Reinas.py = Solución al problema de las 8 reinas  
-- Ant Colony Optimization.py = Implementación del algoritmo ACO  
+### 4. Firefly Algorithm
+Algoritmo bioinspirado basado en el comportamiento de las luciérnagas, donde las soluciones más brillantes atraen a las demás para encontrar el mejor resultado posible.
 
-# Tecnologías utilizadas
+---
+
+## Archivos incluidos
+
+- `AG_8 Reinas.py` → Solución al problema de las 8 reinas
+- `Ant Colony Optimization.py` → Implementación del algoritmo ACO
+- `Particulas.py` → Implementación de Particle Swarm Optimization
+- `FireflyAlgorithm.py` → Implementación del Firefly Algorithm
+
+---
+
+## Tecnologías utilizadas
 
 - Python
-- 
-# Autor
+
+---
+
+## Autor
+
 **Damariz Celeste González Mozqueda**
